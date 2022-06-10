@@ -1,6 +1,6 @@
 # Desafio-SmarttLab
 
-O projeto consiste em um processo de “ETL” (extract, transform, load) com análise descritiva de três datasets referentes a dados da Ibovespa e de rôbos traders. Os arquivos foram extraídos e transformados com a biblioteca Pandas, para analisar os dado fiz uso da API SPARK integrada ao Python (Pyspark) e também a instalei bibliotecas para produção de gráficos, assim gerar insights. A visualização dos dados foi realizada no Power BI  
+O projeto consiste em um processo de “ETL” (extract, transform, load) com análise descritiva de três datasets referentes a dados da Ibovespa e de rôbos traders. Os arquivos foram extraídos e transformados com a biblioteca Pandas, para analisar os dados fiz uso da API SPARK integrada ao Python (Pyspark) e também a instalei bibliotecas para produção de gráficos, assim gerar insights. A visualização dos dados foi realizada no Power BI  
 
 Objetivo: Avaliação de habilidades na área de análise e estudo estatístico de dados.
 
